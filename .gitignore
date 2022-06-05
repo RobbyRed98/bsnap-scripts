@@ -1,0 +1,4 @@
+debian/.debhelper
+debian/bsnap-scripts
+debian/debhelper-build-stamp
+debian/files

@@ -1,0 +1,5 @@
+bsnap-scripts (1.0.0-1) stable; urgency=medium
+
+  * Initial release including bsnap and bdrop scripts.
+
+ -- Robin Roth <r.roth@mail.de>  Mon, 06 Jun 2022 00:02:34 +0200

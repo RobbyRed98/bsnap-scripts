@@ -1,0 +1,14 @@
+Source: bsnap-scripts
+Section: utils
+Priority: optional
+Maintainer: Robin Roth <r.roth@mail.de>
+Build-Depends: debhelper-compat (= 13),
+Standards-Version: 4.6.1
+
+Package: bsnap-scripts
+Architecture: all
+Depends: ${misc:Depends}, bash
+Description: A collection of btrfs snapshot helper scripts.
+ Contains the following scripts:
+ * bsnap - Creates a new snapshot.
+ * bdrop - Helps to remove a snapshot.
