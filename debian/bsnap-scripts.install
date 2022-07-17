@@ -1,2 +1,3 @@
 bsnap.sh usr/share/bsnap-scripts
 bdrop.sh usr/share/bsnap-scripts
+blist.sh usr/share/bsnap-scripts

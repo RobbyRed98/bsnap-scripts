@@ -13,3 +13,5 @@ This repository currently contains the following helper scripts:
   found in the snapshot directory and asks which directory to remove. When using the flag `--oldest` or it shorthands `--old` and `-o` 
   the script auto-selects the oldest snapshot for removal without listing all snapshots. The script will always ask for an confirmation 
   before removing a snapshot, no matter if the `--oldest` flag or its shorthands have been passed or not.
+* `blist.sh`<br>
+  Lists and counts all snapshots found in the snapshots directory (`/.snapshots`). 

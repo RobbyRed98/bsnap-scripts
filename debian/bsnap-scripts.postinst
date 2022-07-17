@@ -5,7 +5,7 @@
 
 set -e
 
-SCRIPTS="bsnap bdrop"
+SCRIPTS="bsnap bdrop blist"
 
 case "$1" in
     configure)

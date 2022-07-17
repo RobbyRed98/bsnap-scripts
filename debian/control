@@ -12,3 +12,4 @@ Description: A collection of btrfs snapshot helper scripts.
  Contains the following scripts:
  * bsnap - Creates a new snapshot.
  * bdrop - Helps to remove a snapshot.
+ * blist - Lists and counts the snapshots.

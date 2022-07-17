@@ -1,3 +1,9 @@
+bsnap-scripts (1.1.0-1) stable; urgency=medium
+
+  * Added the blist script capable of listting and counting snapshots.
+
+ -- Robin Roth <r.roth@mail.de>  Mon, 17 Jul 2022 11:47:12 +0200
+
 bsnap-scripts (1.0.0-1) stable; urgency=medium
 
   * Initial release including bsnap and bdrop scripts.
